@@ -1,0 +1,6 @@
+DEBUG:root:My level is debug
+WARNING:root:My level is warning
+ERROR:root:My level is error
+2019-03-24 10:52:46,093 - DEBUG - root - My level is debug
+2019-03-24 10:52:46,094 - WARNING - root - My level is warning
+2019-03-24 10:52:46,094 - ERROR - root - My level is error
